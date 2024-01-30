@@ -2,4 +2,4 @@
 
 # Here is Deploy Link - 
 
-# main page - https://tejbari5.github.io/Podcast-Platform/
+# main page - https://podcast-platform-phi.vercel.app
